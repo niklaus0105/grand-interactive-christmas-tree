@@ -1,0 +1,7 @@
+{
+  "name": "The Grand Interactive Tree",
+  "description": "A luxurious, high-fidelity interactive Christmas experience featuring a dynamic dual-state 3D tree, motion control, and AI-generated holiday wishes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
