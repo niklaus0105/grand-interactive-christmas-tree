@@ -31,11 +31,12 @@ A high-fidelity, cinematic 3D interactive web experience built for the holidays.
 
 2.  **Start Development Server**:
     ```bash
-    npm start
+    npm run dev
     ```
-
-3.  **Allow Camera Access**:
-    When prompted, allow browser access to your webcam to enable gesture features.
+3.  **Open your browser**:
+   - Navigate to http://localhost:3000
+   - Allow camera access for gesture control
+   - Click "UPLOAD MEMORIES" to upload your photos
 
 ## 🎮 Controls
 
